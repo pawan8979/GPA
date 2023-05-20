@@ -24,7 +24,7 @@ Since the adversary is made to believe that the password is a set of images, itâ
 <br>
 
 ## Screenshots
-Welcome Page
+Welcome Page 
 ![](screenshots/homepage.png)
 <br> <br>
 Sign Up Page
