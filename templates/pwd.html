@@ -1,0 +1,28 @@
+<!-- {% load static %} -->
+
+<div class="form-group">
+    <label for="password">Password:</label>
+    <br>
+      <div class="form-group">
+                    <small class="text-danger">
+                        Note: Please choose the images and remember the order
+                    </small>
+                </div>
+    <br>
+    {% for row in p_images %}
+    <div class="row no-gutters">
+        {% for col in row %}
+        <div class="col-2 no-gutters overflow-auto " >
+            <!-- {{ forloop.parentloop.counter0  }}-{{ forloop.counter0  }} -->
+            <img src='{% static 'images/pwd/' %}{{ col }}.png' alt=" img" style="
+                height: 100%;
+                width: 100%;
+                padding-right: 10px;
+                " id="{{col}}"
+                onclick="{onSelect(this.id)}">
+        </div>
+        {% endfor %}
+    </div>
+    <div style="padding-bottom: 15px;"></div>
+    {% endfor %}
+</div>
