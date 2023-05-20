@@ -25,30 +25,34 @@ Since the adversary is made to believe that the password is a set of images, itâ
 
 ## Screenshots
 Welcome Page 
-![](screenshots/homepage.png)
+![](screenshots/homepage.PNG)
 <br> <br>
 Sign Up Page
-![](screenshots/register.png)
+![](screenshots/register.PNG)
 <br>
-![](screenshots/registeredSuccessfully.png)
+![](screenshots/registeredSuccessfully.PNG)
+<br>
 <br>
 After logging in
-![](screenshots/login.png)
+![](screenshots/login.PNG)
 <br> <br>
 Password Reset Page
-![](screenshots/passwordReset.png)
+![](screenshots/passwordReset.PNG)
 <br>
-![](screenshots/passwordReset.png)
+![](screenshots/passwordReset.PNG)
+<br>
 <br>
 Mail received with password reset link
-![](screenshots/resetMail.png)
+![](screenshots/resetMail.PNG)
 <br>
-![](screenshots/resetting.png)
+![](screenshots/resetting.PNG)
 <br> <br>
 Account blocked due to multiple Failed attempts
-![](screenshots/accountBlocked.png)
-<br> Notification mail received of Account blockage
-![](screenshots/blockedMail.png)
+![](screenshots/accountBlocked.PNG)
+<br> 
+<br>
+Notification mail received of Account blockage
+![](screenshots/blockedMail.PNG)
 
 <br>
 
